@@ -1,0 +1,7 @@
+/.idea
+/logs
+/*.iml
+/src/test
+
+# Project exclude paths
+/target/

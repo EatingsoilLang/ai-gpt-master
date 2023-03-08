@@ -1,0 +1,15 @@
+server:
+  port: 6253
+  servlet:
+    context-path: /openai
+openai:
+  #apiKey
+  token: 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
+  #超时时间
+  timeout: 120000
+feishu:
+  gpt:
+    #飞书的appId
+    appid: cli_a366030b4efad00e
+    #飞书的密钥
+    appSecret: a93rQ1WNLdzsTP9NQgWRO2vJi0lPq6dF
